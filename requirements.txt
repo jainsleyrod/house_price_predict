@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+seaborn
+requests
+scikit-learn
+catboost
+xgboost
+dill
+flask
+#allows it to automatically connect to setup.py
+#-e .
