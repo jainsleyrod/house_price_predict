@@ -7,5 +7,6 @@ catboost
 xgboost
 dill
 flask
+gunicorn
 #allows it to automatically connect to setup.py
 #-e .
