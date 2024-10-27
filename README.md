@@ -15,7 +15,7 @@
 ## Data Collection
 API: https://www.ura.gov.sg/maps/api/
 * From the website, you can get sign up for a API key and generate API token.
-S* tored my data into a sqlite database to ensure efficient management and retrieval of data
+Stored my data into a sqlite database to ensure efficient management and retrieval of data
 
 Features of Data:
 * propertyType
@@ -27,11 +27,6 @@ Features of Data:
 * floorRange
 * contractDate
 * price
-
-## EDA
-I plotted some hisstograms and barplots to see the distibutioon of my numerical and categorical variables
-
-![graphs](https://github.com/user-attachments/assets/630ff157-1ae7-4fa9-b1f8-77dd930794f2)
 
 
 ## Data Ingestion
