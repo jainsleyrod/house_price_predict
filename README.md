@@ -1,10 +1,10 @@
 ## Singapore House Price Prediction: Project Overview
 * The project estimates property prices in Singapore to help people make informed decisions when buying new houses
 * Used URA API to access house data
-* Engineered new features like region to improve accuracy of model
-* Iterated over many different models to find the best model for this problem
+*  Implemented modular coding throughout by creating different classes to ensure the reusability of my code
 * Developed Flask and application and deployed it on Render
-* Implemented modular coding throughout by creating different classes to ensure the reusability of my code
+* Link to Website: https://house-price-prediction-0uvd.onrender.com
+
 
 ## Resources Used
 **Python Version**: 3.10
