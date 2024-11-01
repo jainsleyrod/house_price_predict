@@ -2,7 +2,7 @@
 * The project estimates property prices in Singapore to help people make informed decisions when buying new houses
 * Used URA API to access house data
 *  Implemented modular coding throughout by creating different classes to ensure the reusability of my code
-* Developed Flask and application and deployed it on Render
+* Developed Flask application and deployed it on Render
 * Link to Website: https://house-price-prediction-0uvd.onrender.com
 
 
