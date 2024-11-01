@@ -3,7 +3,7 @@
 * Used URA API to access house data
 * Engineered new features like region to improve accuracy of model
 * Iterated over many different models to find the best model for this problem
-* Imlpemented Flask and HTML to deploy my model
+* Developed Flask and application and deployed it on Render
 * Implemented modular coding throughout by creating different classes to ensure the reusability of my code
 
 ## Resources Used
@@ -48,7 +48,4 @@ After storing my data, I did some data cleaning which included:
 
 **R2 Score** : 0.8784298951068704
 
-## Deployment
-* Used flask to deploy my model on web server
-* Created templates using HTML for users to interact with my model
 
